@@ -252,4 +252,12 @@ footer .column-2{
     margin-left: 300px;
 }
 
+@media (min-width: 450px) {
+    body{
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    
+}
+
 
